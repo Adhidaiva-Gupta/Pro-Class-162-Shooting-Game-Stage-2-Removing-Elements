@@ -1,1 +1,1 @@
-# Pro-Class-162-Shooting-Game-Stage-2-Removing-Elements
+# PRO-C162-Student-Activity
